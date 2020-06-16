@@ -6,6 +6,6 @@ The image link is:
 https://d2dq7ifhe7bu0f.cloudfront.net/
 followed by the full id path in each dictionary labeled:  list_position['attachements'][0]['fullpath']
 # Most Recent:
-https://api.j-novel.club/api/series?filter={%22order%22:%22created+DESC%22}
+# https://api.j-novel.club/api/series?filter={%22order%22:%22created+DESC%22}
 # A- Z order:
-https://api.j-novel.club/api/series?filter={%22order%22:%22title+ASC%22}
+# https://api.j-novel.club/api/series?filter={%22order%22:%22title+ASC%22}
